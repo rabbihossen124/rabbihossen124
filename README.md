@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm md Rabbi</h1>
 <h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
-<img src="https://www.istockphoto.com/photos/beauty-in-nature"></img>
-- 🌱 I’m currently learning **node.js, etc**
 
-- 💬 Ask me about **react, next.js**
+- 🔭 I’m currently working on **React.js, Next.js,Typescript and fontend development.**
 
-- 📫 How to reach me **mrrabbi522@gmail.com**
+- 🌱 I’m currently learning **node.js, mongoDB.**
+
+- 👨‍💻 All ofv my projects are aailable at [naw on but next yes](naw on but next yes)
+
+- 📫 How to reach me **Email**
 
 - ⚡ Fun fact **I think I am funny**
 
@@ -13,6 +15,8 @@
 <p align="left">
 <a href="https://twitter.com/@rabbi397131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rabbi397131" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-rabbi-879a5a300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-rabbi-879a5a300" height="30" width="40" /></a>
+<a href="https://fb.com/rabbbi.hossan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rabbbi.hossan" height="30" width="40" /></a>
+<a href="https://discord.gg/rabbi522012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rabbi522012" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
