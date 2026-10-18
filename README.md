@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm md Rabbi</h1>
 <h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Frameworks,courses etc,**
+- 🌱 I’m currently learning **node.js, etc**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react, next.js**
 
 - 📫 How to reach me **mrrabbi522@gmail.com**
 
