@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm md Rabbi</h1>
 <h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
-<img align="center" src="<img width="1672" height="941" alt="Rabbi Hossan Developer Portfolio Banner" src="https://github.com/user-attachments/assets/3886a046-27da-4d9e-922e-6790f18c813b" />
-" alt="rabbihossen124" />
-
+<img src="https://www.istockphoto.com/photos/beauty-in-nature"></img>
 - 🌱 I’m currently learning **node.js, etc**
 
 - 💬 Ask me about **react, next.js**
